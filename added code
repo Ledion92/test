@@ -1,0 +1,7 @@
+function mdc_target_blank($content) {
+    $post_string = $content;
+    $post_string = str_replace('<a', '<a target="_blank"', $post_string);
+    return $post_string;
+}
+
+add_filter( 'the_content', 'mdc_target_blank' );
