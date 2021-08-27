@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+
+
+<div class="page-album">
+  <div class="page-image">
+    <a target="_blank" href="https://testsite-8f8544.ingress-earth.easywp.com/wp-content/uploads/2021/08/Zugpsitze_mountain-1-scaled.jpg" rel="noopener">
+      <img src="https://testsite-8f8544.ingress-earth.easywp.com/wp-content/uploads/2021/08/Zugpsitze_mountain-1-scaled.jpg" width="600" height="400">
+    </a>
+   
+  </div>
+</div>
+
+
+<div class="page-album">
+  <div class="page-image">
+    <a target="_blank" href="https://testsite-8f8544.ingress-earth.easywp.com/wp-content/uploads/2021/08/Green-solution-1.jpg" rel="noopener">
+      <img src="https://testsite-8f8544.ingress-earth.easywp.com/wp-content/uploads/2021/08/Green-solution-1.jpg" alt="Forest" width="600" height="400">
+    </a>
+   
+  </div>
+</div>
+
+<div class="page-album">
+  <div class="page-image">
+    <a target="_blank" href="https://testsite-8f8544.ingress-earth.easywp.com/wp-content/uploads/2021/08/gettyimages-1146431497-1.jpg" rel="noopener">
+      <img src="https://testsite-8f8544.ingress-earth.easywp.com/wp-content/uploads/2021/08/gettyimages-1146431497-1.jpg" alt="Northern Lights" width="600" height="400">
+    </a>
+   
+  </div>
+</div>
+
+<div class="page-album">
+  <div class="page-image">
+    <a target="_blank" href="https://testsite-8f8544.ingress-earth.easywp.com/wp-content/uploads/2021/08/a496c2b6bc5d7cfe0e0674f6598c38ad-2.jpg" rel="noopener">
+      <img src="https://testsite-8f8544.ingress-earth.easywp.com/wp-content/uploads/2021/08/a496c2b6bc5d7cfe0e0674f6598c38ad-2.jpg" alt="Mountains" width="600" height="400">
+    </a>
+    
+  </div>
+</div>
+
+<div class="page-album">
+  <div class="page-image">
+    <a target="_blank" href="https://testsite-8f8544.ingress-earth.easywp.com/wp-content/uploads/2021/08/2-nature-1.jpg" rel="noopener">
+      <img src="https://testsite-8f8544.ingress-earth.easywp.com/wp-content/uploads/2021/08/2-nature-1.jpg" alt="Mountains" width="600" height="400">
+    </a>
+    
+  </div>
+</div>
+
+<div class="page-album">
+  <div class="page-image">
+    <a target="_blank" href="https://testsite-8f8544.ingress-earth.easywp.com/wp-content/uploads/2021/08/Sommerlandschaft-Bilder-1.jpg" rel="noopener">
+      <img src="https://testsite-8f8544.ingress-earth.easywp.com/wp-content/uploads/2021/08/Sommerlandschaft-Bilder-1.jpg" alt="Mountains" width="600" height="400">
+    </a>
+    
+  </div>
+</div>
+
+<div class="clearfix"></div>
+
+
+</body>
+</html>
