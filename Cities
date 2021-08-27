@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+
+
+<div class="page-album">
+  <div class="page-image">
+    <a target="_blank" href="https://testsite-8f8544.ingress-earth.easywp.com/wp-content/uploads/2021/08/original_lede-madrid-shutterstock.jpg" rel="noopener">
+      <img src="https://testsite-8f8544.ingress-earth.easywp.com/wp-content/uploads/2021/08/original_lede-madrid-shutterstock.jpg" width="600" height="400">
+    </a>
+   
+  </div>
+</div>
+
+
+<div class="page-album">
+  <div class="page-image">
+    <a target="_blank" href="https://testsite-8f8544.ingress-earth.easywp.com/wp-content/uploads/2021/08/NYC_hero.jpg" rel="noopener">
+      <img src="https://testsite-8f8544.ingress-earth.easywp.com/wp-content/uploads/2021/08/NYC_hero.jpg" alt="Forest" width="600" height="400">
+    </a>
+    
+  </div>
+</div>
+
+<div class="page-album">
+  <div class="page-image">
+    <a target="_blank" href="https://testsite-8f8544.ingress-earth.easywp.com/wp-content/uploads/2021/08/iStock-509662042-1800-scaled.jpg" rel="noopener">
+      <img src="https://testsite-8f8544.ingress-earth.easywp.com/wp-content/uploads/2021/08/iStock-509662042-1800-scaled.jpg" alt="Northern Lights" width="600" height="400">
+    </a>
+    
+  </div>
+</div>
+
+<div class="page-album">
+  <div class="page-image">
+    <a target="_blank" href="https://testsite-8f8544.ingress-earth.easywp.com/wp-content/uploads/2021/08/GettyImages-939134356-scaled.jpg" rel="noopener">
+      <img src="https://testsite-8f8544.ingress-earth.easywp.com/wp-content/uploads/2021/08/GettyImages-939134356-scaled.jpg" alt="Mountains" width="600" height="400">
+    </a>
+   
+  </div>
+</div>
+
+<div class="page-album">
+  <div class="page-image">
+    <a target="_blank" href="https://testsite-8f8544.ingress-earth.easywp.com/wp-content/uploads/2021/08/635577030179736795-476881195.jpg" rel="noopener">
+      <img src="https://testsite-8f8544.ingress-earth.easywp.com/wp-content/uploads/2021/08/635577030179736795-476881195.jpg" alt="Mountains" width="600" height="400">
+    </a>
+    
+  </div>
+</div>
+
+<div class="page-album">
+  <div class="page-image">
+    <a target="_blank" href="https://testsite-8f8544.ingress-earth.easywp.com/wp-content/uploads/2021/08/04-Cities-Looking-to-Harness-Smart-Technologies-Should-Start-Small_960px-x-540px.jpg" rel="noopener">
+      <img src="https://testsite-8f8544.ingress-earth.easywp.com/wp-content/uploads/2021/08/04-Cities-Looking-to-Harness-Smart-Technologies-Should-Start-Small_960px-x-540px.jpg" alt="Mountains" width="600" height="400">
+    </a>
+   
+  </div>
+</div>
+
+<div class="clearfix"></div>
+
+
+</body>
+</html>
