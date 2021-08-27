@@ -1,0 +1,49 @@
+div.page-image {
+  border: 1px solid #ccc;
+	margin: 6px;
+}
+
+div.page-image:hover {
+  border: 1px solid #777;
+}
+
+div.page-image img {
+  width: 100%;
+  height: 300px;
+}
+
+div.page-title {
+  padding: 15px;
+  text-align: center;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.page-album {
+  padding: 6px 6px;
+  float: left;
+  width: 32.9999%;
+  
+}
+
+@media only screen and (max-width: 700px) {
+  .page-album {
+    width: 49.99999%;
+    margin: 6px 0;
+  }
+}
+
+@media only screen and (max-width: 500px) {
+  .page-album {
+    width: 100%;
+  }
+}
+
+.clearfix:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
